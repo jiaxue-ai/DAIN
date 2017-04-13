@@ -1,3 +1,3 @@
 # Differential-Angular-Imaging-for-Material-Recognition
 
-Coming soon
+to code is heavily based on https://github.com/feichtenhofer/twostreamfusion
