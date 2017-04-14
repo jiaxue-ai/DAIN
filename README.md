@@ -31,6 +31,6 @@ cd DAIN
 
 ## Acknowledgement
 
-The code is heavily based on the [twostreamfusion](https://github.com/feichtenhofer/twostreamfusion) project, it only support single GPU, if you meet problem to run the code, please check [here](https://github.com/feichtenhofer/twostreamfusion/issues).
+The code is heavily based on the [twostreamfusion](https://github.com/feichtenhofer/twostreamfusion), it only supports single GPU, if you meet problem to run the code, please check [here](https://github.com/feichtenhofer/twostreamfusion/issues).
 
 This work was supported by National Science Foundation award IIS-1421134. A GPU used for this research was donated by the NVIDIA Corporation. Thanks to Di Zhu, Hansi Liu, Lingyi Xu, and Yueyang Chen for help with data collection.
