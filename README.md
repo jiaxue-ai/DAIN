@@ -1,6 +1,6 @@
 # DAIN
 
-[[Arxiv]](https://arxiv.org/abs/1612.02372)
+[[Arxiv]](https://arxiv.org/abs/1612.02372) [[Project]](http://eceweb1.rutgers.edu/vision/gts/gtos.html)
 
 This repository contains the code for our CVPR 2017 paper:
 
